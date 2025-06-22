@@ -7,7 +7,7 @@ It's very simple to use it. Here is a step-by-step guide to using it:
 - After installing, **DO NOT RUN THE FILE.** It will 100% crash. What you need to do is, open cmd first. 
 - After opening, paste this command 
 `pip install yt-dlp mutagen ytmusicapi spotipy requests`
-What this will do is, it will download all the necessary packages needed for the working of this file.
+- What this will do is, it will download all the necessary packages needed for the working of this file.
 - After the packages are installed, head to [Spotify Bot Dashboard](https://developer.spotify.com/dashboard) and make a bot. 
 - 
 ![Screenshot 2025-06-22 222557](https://github.com/user-attachments/assets/4610bc71-53dd-4dd2-a2c2-79c0666a7c63)
